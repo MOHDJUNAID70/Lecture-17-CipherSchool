@@ -1,0 +1,6 @@
+1. react component are like functions.
+2. they contain some logical code and they return some UI.
+3. just like functions, they accept arguments that can control the UI/logic of the component.
+4. redering a component is like calling a function.
+
+5. in react, a component represented by a js class or js function.
